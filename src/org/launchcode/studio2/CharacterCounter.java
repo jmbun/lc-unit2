@@ -1,4 +1,4 @@
-package org.launchcode.java.studio2;
+package org.launchcode.studio2;
 
 import java.util.*;
 
